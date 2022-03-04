@@ -1,0 +1,13 @@
+/Users/Kieran/Projects/findZodiac/findZodiac/bin/Debug/netcoreapp3.1/findZodiac.deps.json
+/Users/Kieran/Projects/findZodiac/findZodiac/bin/Debug/netcoreapp3.1/findZodiac.runtimeconfig.json
+/Users/Kieran/Projects/findZodiac/findZodiac/bin/Debug/netcoreapp3.1/findZodiac.runtimeconfig.dev.json
+/Users/Kieran/Projects/findZodiac/findZodiac/bin/Debug/netcoreapp3.1/findZodiac.dll
+/Users/Kieran/Projects/findZodiac/findZodiac/bin/Debug/netcoreapp3.1/findZodiac.pdb
+/Users/Kieran/Projects/findZodiac/findZodiac/obj/Debug/netcoreapp3.1/findZodiac.csproj.AssemblyReference.cache
+/Users/Kieran/Projects/findZodiac/findZodiac/obj/Debug/netcoreapp3.1/findZodiac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kieran/Projects/findZodiac/findZodiac/obj/Debug/netcoreapp3.1/findZodiac.AssemblyInfoInputs.cache
+/Users/Kieran/Projects/findZodiac/findZodiac/obj/Debug/netcoreapp3.1/findZodiac.AssemblyInfo.cs
+/Users/Kieran/Projects/findZodiac/findZodiac/obj/Debug/netcoreapp3.1/findZodiac.csproj.CoreCompileInputs.cache
+/Users/Kieran/Projects/findZodiac/findZodiac/obj/Debug/netcoreapp3.1/findZodiac.dll
+/Users/Kieran/Projects/findZodiac/findZodiac/obj/Debug/netcoreapp3.1/findZodiac.pdb
+/Users/Kieran/Projects/findZodiac/findZodiac/obj/Debug/netcoreapp3.1/findZodiac.genruntimeconfig.cache
